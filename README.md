@@ -1,12 +1,12 @@
-# 👋 Hola, soy [Tu Nombre]!
+# 👋 Hi, I’m Diego!
 
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
 
-Soy un desarrollador apasionado por la tecnología, el desarrollo de software y la resolución de problemas complejos. Me gusta trabajar con **[lenguajes/programas o tecnologías que usas]** y siempre estoy buscando mejorar mis habilidades y aprender cosas nuevas. 🌱
+I am a passionate developer studying **Cross-Platform Application Development** in Madrid. I enjoy working with **[languages/tools or technologies you use]** and am always eager to improve my skills and learn new things. 🌱
 
 ---
 
-### 🔧 Tecnologías y Herramientas
+### 🔧 Technologies and Tools
 <p align="left">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -18,33 +18,33 @@ Soy un desarrollador apasionado por la tecnología, el desarrollo de software y 
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Estadísticas de GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=6&hide_border=true&theme=radical" alt="Lenguajes más usados" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=6&hide_border=true&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
-- **LinkedIn:** [tu-url-de-linkedin](https://linkedin.com/in/tu-usuario)
-- **Correo electrónico:** tu-email@gmail.com
-- **Portafolio:** [tu-portfolio.com](https://tu-portfolio.com)
-
----
-
-### ✨ Proyectos Destacados
-
-- [Proyecto 1](https://github.com/tu-usuario/proyecto1): Breve descripción de tu proyecto.
-- [Proyecto 2](https://github.com/tu-usuario/proyecto2): Breve descripción de otro proyecto.
+- **LinkedIn:** [your-linkedin-url](https://linkedin.com/in/your-username)
+- **Email:** your-email@gmail.com
+- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 
 ---
 
-### 🚀 Resumen Rápido
-¡Sigueme para ver más proyectos interesantes y colaboraciones! 😊
+### ✨ Featured Projects
+
+- [Project 1](https://github.com/your-username/project1): Brief description of your project.
+- [Project 2](https://github.com/your-username/project2): Brief description of another project.
 
 ---
 
-> "La programación no es solo una habilidad, es una forma de ver y transformar el mundo." 💻✨
+### 🚀 Quick Summary
+Follow me to see more interesting projects and collaborations! 😊
+
+---
+
+> "Programming is not just a skill; it's a way of seeing and transforming the world." 💻✨
