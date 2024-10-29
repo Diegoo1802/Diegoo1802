@@ -59,8 +59,11 @@ I am a passionate developer studying **Cross-Platform Application Development** 
 
 ---
 
-### 🚀 Quick Summary
-Follow me to see more interesting projects and collaborations! 😊
+### 🎮 Interactive Tic-Tac-Toe Game
+
+<p align="center">
+  <iframe src="https://your-username.github.io/tic-tac-toe/" width="300" height="300"></iframe>
+</p>
 
 ---
 
