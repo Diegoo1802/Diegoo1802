@@ -2,7 +2,7 @@
 
 
 
-I am a passionate developer studying **Cross-Platform Application Development** in Madrid. I enjoy working with **[languages/tools or technologies you use]** and am always eager to improve my skills and learn new things. 🌱
+I am a passionate developer studying **Cross-Platform Application Development** in Madrid. I am always eager to improve my skills and learn new things. 🌱
 
 ---
 
