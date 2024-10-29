@@ -49,7 +49,7 @@ I am a passionate developer studying **Cross-Platform Application Development** 
 
 - **LinkedIn:** [Diego Vigara García](https://linkedin.com/in/diego-vigara-garcia)
 - **Email:** vigaradiego18@gmail.com
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **Portfolio:** [Curriculum](https://añadircurriculum)
 ---
 
 ### ✨ Featured Projects
