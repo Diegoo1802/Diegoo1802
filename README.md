@@ -49,7 +49,7 @@ I am a passionate developer studying **Cross-Platform Application Development** 
 
 - **LinkedIn:** [your-linkedin-url](https://linkedin.com/in/your-username)
 - **Email:** vigaradiego18@gmail.com
-- ***Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 ---
 
 ### ✨ Featured Projects
