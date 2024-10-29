@@ -21,8 +21,8 @@ I am a passionate developer studying **Cross-Platform Application Development** 
 ### 📊 GitHub Stats
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=6&hide_border=true&theme=radical" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diegoo1802&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&langs_count=6&hide_border=true&theme=radical" alt="Top Languages" />
 </div>
 
 ---
