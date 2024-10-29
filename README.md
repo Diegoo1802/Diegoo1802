@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Diego!
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
+
 
 I am a passionate developer studying **Cross-Platform Application Development** in Madrid. I enjoy working with **[languages/tools or technologies you use]** and am always eager to improve my skills and learn new things. 🌱
 
@@ -29,9 +29,9 @@ I am a passionate developer studying **Cross-Platform Application Development** 
 
 ### 📫 Contact
 
-- **LinkedIn:** [your-linkedin-url](https://linkedin.com/in/your-username)
-- **Email:** your-email@gmail.com
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **LinkedIn:** 
+- **Email:** vigaradiego18@gmail.com
+- **Portfolio:** 
 
 ---
 
