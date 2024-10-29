@@ -47,7 +47,7 @@ I am a passionate developer studying **Cross-Platform Application Development** 
 
 ### 📫 Contact
 
-- **LinkedIn:** [your-linkedin-url](https://linkedin.com/in/diego-vigara-garcia)
+- **LinkedIn:** [Diego Vigara García](https://linkedin.com/in/diego-vigara-garcia)
 - **Email:** vigaradiego18@gmail.com
 - **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 ---
