@@ -59,11 +59,8 @@ I am a passionate developer studying **Cross-Platform Application Development** 
 
 ---
 
-### 🎮 Interactive Tic-Tac-Toe Game
-
-<p align="center">
-  <iframe src="https://your-username.github.io/tic-tac-toe/" width="300" height="300"></iframe>
-</p>
+### 🎮 Click the Color Game
+Play the game [here](https://your-username.github.io/repo-name/)! Try to click the box as fast as you can and see the colors change!
 
 ---
 
