@@ -60,7 +60,9 @@ I am a passionate developer studying **Cross-Platform Application Development** 
 ---
 
 ### 🎮 Click the Color Game
-Play the game [here](https://your-username.github.io/repo-name/)! Try to click the box as fast as you can and see the colors change!
+Play the game [here](https://diegoo1802.github.io/JuegoPerfil/)! Try to click the box as fast as you can and see the colors change! 🎉
+
+![Click the Color Game](https://img.shields.io/badge/Game-Click_the_Color-blue)
 
 ---
 
