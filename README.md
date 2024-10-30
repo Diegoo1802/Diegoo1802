@@ -10,9 +10,9 @@ I believe that coding is more than just a profession; it's a creative outlet tha
 
 ---
 
-### 🔧 Technologies and Tools
+### 🔧 Tecnologías y Herramientas
 
-I have experience with a diverse set of technologies that empower me to build robust applications:
+Soy un desarrollador apasionado con experiencia en diversas tecnologías que me permiten construir aplicaciones robustas y efectivas. Aquí te presento algunas de las herramientas que utilizo:
 
 <p align="left">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -39,8 +39,6 @@ I have experience with a diverse set of technologies that empower me to build ro
     <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
     <img src="https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity&logoColor=white" />
 </p>
-
----
 
 ### 📊 GitHub Stats
 
