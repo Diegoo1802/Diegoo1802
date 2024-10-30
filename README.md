@@ -55,11 +55,4 @@ Here are some of my favorite projects that showcase my skills:
 
 ---
 
-### 🎮 Play a Simple Game
-
-Try this [Number Guessing Game](https://number-guessing-game.netlify.app/) and have fun!
-
-
----
-
 > "Programming is not just a skill; it's a way of seeing and transforming the world." 💻✨
