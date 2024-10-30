@@ -9,9 +9,9 @@ Welcome to my corner of the web! I am a passionate developer currently immersed 
 I believe that coding is more than just a profession; it's a creative outlet that allows me to bring ideas to life. When I'm not coding, you might find me exploring the latest tech trends, diving into open-source projects, or collaborating with fellow developers to create innovative solutions.
 
 ---
-### 🔧 Tecnologías y Herramientas
+### 🔧 Technologies & Tools
 
-Como desarrollador apasionado, cuento con experiencia en diversas tecnologías que me permiten construir aplicaciones robustas y efectivas. Aquí tienes algunas de las herramientas que utilizo:
+As a passionate developer, I work with a variety of technologies that empower me to create robust applications. Here’s a glimpse of my toolkit:
 
 <p align="left">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -38,6 +38,9 @@ Como desarrollador apasionado, cuento con experiencia en diversas tecnologías q
     <img src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
     <img src="https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity&logoColor=white" />
 </p>
+
+---
+
 
 ---
 
