@@ -9,55 +9,54 @@ Welcome to my corner of the web! I am a passionate developer currently immersed 
 I believe that coding is more than just a profession; it's a creative outlet that allows me to bring ideas to life. When I'm not coding, you might find me exploring the latest tech trends, diving into open-source projects, or collaborating with fellow developers to create innovative solutions.
 
 ---
+
 ### 🔧 Technologies & Tools
 
-As a passionate developer, I leverage a diverse set of technologies to create powerful applications. Here’s a glimpse of my toolkit:
+I am a passionate developer skilled in a variety of technologies that enable me to create powerful applications. Here’s an overview of my toolkit:
 
-<table>
-  
-  <tr>
-    <th>Languages</th>
-    <th>Frameworks</th>
-    <th>Databases</th>
-    <th>Tools</th>
-    <th>Cloud & DevOps</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /></td>
-    <td></td>
-    <td><img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></td>
-    <td></td>
-    <td><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white" /></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity&logoColor=white" /></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+**Languages:**
+<p align="left">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
+</p>
+
+**Frameworks:**
+<p align="left">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+</p>
+
+**Databases:**
+<p align="left">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+**Tools:**
+<p align="left">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+</p>
+
+**Cloud & DevOps:**
+<p align="left">
+    <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+</p>
+
+**Mobile Development:**
+<p align="left">
+    <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity&logoColor=white" />
+</p>
 
 ---
 
