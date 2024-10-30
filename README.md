@@ -9,10 +9,9 @@ Welcome to my corner of the web! I am a passionate developer currently immersed 
 I believe that coding is more than just a profession; it's a creative outlet that allows me to bring ideas to life. When I'm not coding, you might find me exploring the latest tech trends, diving into open-source projects, or collaborating with fellow developers to create innovative solutions.
 
 ---
-
 ### 🔧 Tecnologías y Herramientas
 
-Soy un desarrollador apasionado con experiencia en diversas tecnologías que me permiten construir aplicaciones robustas y efectivas. Aquí te presento algunas de las herramientas que utilizo:
+Como desarrollador apasionado, cuento con experiencia en diversas tecnologías que me permiten construir aplicaciones robustas y efectivas. Aquí tienes algunas de las herramientas que utilizo:
 
 <p align="left">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -40,16 +39,8 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías que me 
     <img src="https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-
-Here's a snapshot of my contributions and projects:
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diegoo1802&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&langs_count=6&hide_border=true&theme=radical" alt="Top Languages" />
-</div>
-
 ---
+
 
 ### 📫 Get in Touch
 
