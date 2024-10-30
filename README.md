@@ -42,7 +42,7 @@ I'm always excited to connect and collaborate! Reach out to me through the follo
 
 - **LinkedIn:** [Diego Vigara García](https://linkedin.com/in/diego-vigara-garcia)
 - **Email:** [vigaradiego18@gmail.com](mailto:vigaradiego18@gmail.com)
-- **Mobile:** [Telf](695621223)
+- **Portfolio:** [Curriculum]()
 
 ---
 
