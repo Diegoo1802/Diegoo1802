@@ -9,30 +9,29 @@ Welcome to my corner of the web! I am a passionate developer currently immersed 
 I believe that coding is more than just a profession; it's a creative outlet that allows me to bring ideas to life. When I'm not coding, you might find me exploring the latest tech trends, diving into open-source projects, or collaborating with fellow developers to create innovative solutions.
 
 ---
-
 ### 🔧 Technologies & Tools
 
 <p align="left">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/python.png" />
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" />
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+    <img src="https://img.icons8.com/color/48/000000/php.png" />
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" />
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" />
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" />
+    <img src="https://img.icons8.com/color/48/000000/git.png" />
+    <img src="https://img.icons8.com/color/48/000000/github.png" />
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+    <img src="https://img.icons8.com/color/48/000000/figma.png" />
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
+    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" />
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" />
+    <img src="https://img.icons8.com/color/48/000000/android-logo.png" />
+    <img src="https://img.icons8.com/color/48/000000/unity.png" />
 </p>
 
 ---
