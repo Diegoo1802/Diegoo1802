@@ -11,38 +11,52 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 - Diving into open-source projects.
 - Collaborating with fellow developers on innovative solutions.
 
+---
+
+
 ## 📈 GitHub Analytics
 
 <p align="center">
     <!-- GitHub Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Diegoo1802&show_icons=true&count_private=true&theme=radical" alt="Diego's GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Diegoo1802&show_icons=true&count_private=true&theme=radical" alt="Diego's GitHub Stats" width="45%" />
 
     <!-- Top Languages Card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
     <!-- Streak Stats Card -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" width="45%" />
 
     <!-- Contributions Card -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diegoo1802&theme=radical" alt="Productive Time" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diegoo1802&theme=radical" alt="Productive Time" width="45%" />
 </p>
 
 <p align="center">
     <!-- Commits Graph Card -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=Diegoo1802&theme=radical" alt="Commits Activity" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=Diegoo1802&theme=radical" alt="Commits Activity" width="45%" />
 
-    <!-- Followers Card -->
-    <img src="https://img.shields.io/badge/Followers-<count>-%2342B72A?style=flat&logo=github" alt="Followers" width="49%" />
+    <!-- GitHub Activity Overview -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diegoo1802&theme=radical" alt="Most Commit Language" width="45%" />
 </p>
 
 <p align="center">
-    <!-- GitHub Activity Overview -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diegoo1802&theme=radical" alt="Most Commit Language" width="49%" />
+    <!-- GitHub Contribution Calendar -->
+    <img src="https://github.com/Diegoo1802.png" alt="Contribution Calendar" width="45%" style="border-radius: 10px; box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.2);" />
+
+    <!-- Wakatime Stats -->
+    <img src="https://wakatime.com/share/@Diegoo1802/d8d3e24b-9d4e-45b2-b84c-567e8e3e828f.svg" alt="Wakatime Stats" width="45%" />
+</p>
+
+<p align="center">
+    <!-- Dynamic Text Animation -->
+    <marquee behavior="scroll" direction="left" scrollamount="10">
+        🌟 Contribuyendo al código todos los días! 🌟  |  💻 Aprendiendo nuevas tecnologías! 💻  |  📚 Compartiendo conocimiento! 📚
+    </marquee>
 </p>
 
 ---
+
 
 
 ## 🔧 Technologies & Tools
