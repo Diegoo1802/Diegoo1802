@@ -17,7 +17,6 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Diegoo1802&show_icons=true&count_private=true&theme=radical" alt="Diego's GitHub Stats" width="48%" style="border: none;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diegoo1802&theme=radical" alt="Most Commit Language" width="48%" style="border: none;" />
 </p>
 
 <p align="center">
