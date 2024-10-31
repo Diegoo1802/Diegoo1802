@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Diego Vigara García
+ # 👋 Hi, I'm Diego Vigara García
 
 Welcome to my GitHub profile! I'm a passionate developer based in Madrid, focusing on **Cross-Platform Application Development**. I’m a lifelong learner, always ready to explore new tech and push the boundaries of what's possible. 🌱
 
@@ -20,8 +20,8 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 </p>
 
 <p align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" height="190" style="border: none;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" height="190" style="border: none;" />
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" height="300" style="border: none;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" height="300" style="border: none;" />
 </p>
 
 ---
