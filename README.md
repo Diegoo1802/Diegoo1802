@@ -22,7 +22,6 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" width="48%" style="border: none;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diegoo1802&theme=radical" alt="Productive Time" width="48%" style="border: none;" />
 </p>
 
 <p align="center">
