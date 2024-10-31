@@ -13,47 +13,38 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 
 ---
 
-
 ## 📈 GitHub Analytics
 
 <p align="center">
-    <!-- GitHub Stats Card -->
     <img src="https://github-readme-stats.vercel.app/api?username=Diegoo1802&show_icons=true&count_private=true&theme=radical" alt="Diego's GitHub Stats" width="45%" />
-
-    <!-- Top Languages Card -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-    <!-- Streak Stats Card -->
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" width="45%" />
-
-    <!-- Contributions Card -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diegoo1802&theme=radical" alt="Productive Time" width="45%" />
 </p>
 
 <p align="center">
-    <!-- Commits Graph Card -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=Diegoo1802&theme=radical" alt="Commits Activity" width="45%" />
-
-    <!-- GitHub Activity Overview -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diegoo1802&theme=radical" alt="Most Commit Language" width="45%" />
 </p>
 
 <p align="center">
-    <!-- GitHub Contribution Calendar -->
-    <img src="https://github.com/Diegoo1802.png" alt="Contribution Calendar" width="45%" style="border-radius: 10px; box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.2);" />
-
-    <!-- Wakatime Stats -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=Diegoo1802&theme=radical" alt="GitHub Achievements" width="45%" />
     <img src="https://wakatime.com/share/@Diegoo1802/d8d3e24b-9d4e-45b2-b84c-567e8e3e828f.svg" alt="Wakatime Stats" width="45%" />
 </p>
 
 <p align="center">
-    <!-- Dynamic Text Animation -->
-    <marquee behavior="scroll" direction="left" scrollamount="10">
-        🌟 Contribuyendo al código todos los días! 🌟  |  💻 Aprendiendo nuevas tecnologías! 💻  |  📚 Compartiendo conocimiento! 📚
+    <h3>🔔 ¡Sigue mis avances en GitHub!</h3>
+    <h4 style="color: #36d7b7;">Contribuciones: ¡Siempre aprendiendo y mejorando!</h4>
+    <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size: 20px; color: #ff5733;">
+        🚀 ¡Participando en proyectos interesantes! | 📚 Aprendiendo algo nuevo cada día | 🌟 ¡Colaborando con la comunidad!
     </marquee>
 </p>
+
+---
+
 
 ---
 
