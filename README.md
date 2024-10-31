@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer based in Madrid, focusi
 
 ---
 
- ##🌟 About Me
+ ## 🌟 About Me
 
 I’m a developer who believes that coding is a creative outlet to bring ideas to life. When I’m not coding, you might find me:
 - Exploring the latest tech trends.
