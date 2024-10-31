@@ -20,8 +20,8 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 </p>
 
 <p align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" height="200" style="border: none;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" height="200" style="border: none;" />
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" height="48%" style="border: none;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" height="48%" style="border: none;" />
 </p>
 
 ---
