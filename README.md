@@ -30,10 +30,6 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diegoo1802&theme=radical" alt="Most Commit Language" width="45%" />
 </p>
 
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=Diegoo1802&theme=radical" alt="GitHub Achievements" width="45%" />
-    <img src="https://wakatime.com/share/@Diegoo1802/d8d3e24b-9d4e-45b2-b84c-567e8e3e828f.svg" alt="Wakatime Stats" width="45%" />
-</p>
 
 ---
 
