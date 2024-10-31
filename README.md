@@ -4,6 +4,15 @@ Welcome to my GitHub profile! I'm a passionate developer based in Madrid, focusi
 
 ---
 
+## 🌟 About Me
+
+I’m a developer who believes that coding is a creative outlet to bring ideas to life. When I’m not coding, you might find me:
+- Exploring the latest tech trends.
+- Diving into open-source projects.
+- Collaborating with fellow developers on innovative solutions.
+
+---
+
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -21,15 +30,6 @@ Welcome to my GitHub profile! I'm a passionate developer based in Madrid, focusi
     <!-- Contributions Card -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diegoo1802&theme=radical" alt="Productive Time" width="49%" />
 </p>
-
----
-
-## 🌟 About Me
-
-I’m a developer who believes that coding is a creative outlet to bring ideas to life. When I’m not coding, you might find me:
-- Exploring the latest tech trends.
-- Diving into open-source projects.
-- Collaborating with fellow developers on innovative solutions.
 
 ---
 
@@ -66,14 +66,6 @@ Here are some of my favorite projects:
 
 - [**Project 1**](https://github.com/your-username/project1): A brief description of your project.
 - [**Project 2**](https://github.com/your-username/project2): Briefly mention what makes this project unique.
-
----
-
-## 🎖️ Achievements & Milestones
-
-- **First Pull Request Merged:** Contributed to [open-source project](#) on DD/MM/YYYY.
-- **Hackathon Winner:** Awarded for [project or category] in [year].
-- **First 100 Stars on GitHub:** 🎉
 
 ---
 
