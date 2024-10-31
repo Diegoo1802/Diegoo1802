@@ -1,29 +1,30 @@
-# 👋 Hi there, I’m **Diego Vigara García**
+# 👋 Hi, I'm Diego Vigara García
 
-Welcome to my GitHub profile! I'm a passionate developer based in Madrid, specializing in **Cross-Platform Application Development**. I'm driven by curiosity and a constant desire to improve, always eager to learn new technologies and refine my craft. 🌱
+Welcome to my GitHub! I'm a passionate developer based in Madrid, focused on **Cross-Platform Application Development**. I'm always exploring new tech and refining my skills. 🌱
+
+---
+
+## 🌟 About Me
+
+I'm a developer who believes that coding is more than a job; it's an art form. I love exploring the latest trends in tech and contributing to open-source projects. 
+
+- 🔭 **Current Focus:** Cross-platform app development and backend engineering.
+- 🌱 **Learning:** Cloud computing, DevOps, and AI.
+- ⚡ **Fun Fact:** I'm a fan of learning languages—both programming and spoken!
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Diegoo1802&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="49%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak" width="49%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diegoo1802&theme=radical" alt="GitHub Stats" width="49%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diegoo1802&theme=radical" alt="Productive Time" width="49%"/>
 </p>
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diegoo1802&theme=radical" alt="Profile Summary" width="98%"/>
 </p>
 
----
-
-## 🌟 About Me
-
-I'm deeply passionate about coding, which I see as a form of art that allows me to transform ideas into tangible solutions. When I'm not immersed in development, I'm likely exploring new tech trends, contributing to open-source projects, or collaborating with other developers to create impactful solutions.
-
-- **🔭 Current Focus:** Cross-platform app development and backend engineering.
-- **🌱 Learning:** Diving deeper into cloud computing and DevOps.
-- **⚡ Fun Fact:** I love learning new languages, both coding and spoken!
 
 ---
 
@@ -56,29 +57,17 @@ I'm deeply passionate about coding, which I see as a form of art that allows me 
 
 ## ✨ Featured Projects
 
-Here are some of my favorite projects that showcase my skills and creativity:
-
-- [**Project 1**](https://github.com/your-username/project1): A brief description of your project, highlighting its unique features and technologies used.
-- [**Project 2**](https://github.com/your-username/project2): Another project description, emphasizing the problem it solves or its significance.
-- [**Project 3**](https://github.com/your-username/project3): A showcase of your abilities in a different tech stack or with a unique approach.
+- [**Project 1**](https://github.com/your-username/project1): Description of the project.
+- [**Project 2**](https://github.com/your-username/project2): Brief description of another project.
 
 ---
 
 ## 📫 Get in Touch
 
-I'm always open to connecting and collaborating! Reach out to me through the following channels:
+I'm always open to connecting and collaborating!
 
 - **LinkedIn:** [Diego Vigara García](https://linkedin.com/in/diego-vigara-garcia)
 - **Email:** [vigaradiego18@gmail.com](mailto:vigaradiego18@gmail.com)
-- **Portfolio:** [Curriculum](https://your-portfolio-link.com)
-
----
-
-## 🎯 Goals for 2024
-
-- **Expand Skills**: Deepen my knowledge in DevOps and cloud infrastructure.
-- **Contribute to Open Source**: Work on at least 3 meaningful open-source projects.
-- **Launch a Personal Project**: Develop and deploy a full-scale app from scratch.
 
 ---
 
