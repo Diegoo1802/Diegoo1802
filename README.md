@@ -11,7 +11,9 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 - Diving into open-source projects.
 - Collaborating with fellow developers on innovative solutions.
 
+
 ---
+
 
 ## 📈 GitHub Analytics
 
@@ -30,9 +32,7 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diegoo1802&theme=radical" alt="Most Commit Language" width="45%" />
 </p>
 
-
 ---
-
 
 ## 🔧 Technologies & Tools
 
