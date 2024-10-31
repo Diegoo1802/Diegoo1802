@@ -1,36 +1,41 @@
 # 👋 Hi, I'm Diego Vigara García
 
-Welcome to my GitHub! I'm a passionate developer based in Madrid, focused on **Cross-Platform Application Development**. I'm always exploring new tech and refining my skills. 🌱
+Welcome to my GitHub profile! I'm a passionate developer based in Madrid, focusing on **Cross-Platform Application Development**. I’m a lifelong learner, always ready to explore new tech and push the boundaries of what's possible. 🌱
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+    <!-- GitHub Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Diegoo1802&show_icons=true&count_private=true&theme=radical" alt="Diego's GitHub Stats" width="49%" />
+    
+    <!-- Top Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+    <!-- Streak Stats Card -->
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" width="49%" />
+    
+    <!-- Contributions Card -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diegoo1802&theme=radical" alt="Productive Time" width="49%" />
+</p>
 
 ---
 
 ## 🌟 About Me
 
-I'm a developer who believes that coding is more than a job; it's an art form. I love exploring the latest trends in tech and contributing to open-source projects. 
-
-- 🔭 **Current Focus:** Cross-platform app development and backend engineering.
-- 🌱 **Learning:** Cloud computing, DevOps, and AI.
-- ⚡ **Fun Fact:** I'm a fan of learning languages—both programming and spoken!
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diegoo1802&theme=radical" alt="GitHub Stats" width="49%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diegoo1802&theme=radical" alt="Productive Time" width="49%"/>
-</p>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diegoo1802&theme=radical" alt="Profile Summary" width="98%"/>
-</p>
-
+I’m a developer who believes that coding is a creative outlet to bring ideas to life. When I’m not coding, you might find me:
+- Exploring the latest tech trends.
+- Diving into open-source projects.
+- Collaborating with fellow developers on innovative solutions.
 
 ---
 
 ## 🔧 Technologies & Tools
 
-<p align="left">
+<p align="center">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
@@ -57,8 +62,26 @@ I'm a developer who believes that coding is more than a job; it's an art form. I
 
 ## ✨ Featured Projects
 
-- [**Project 1**](https://github.com/your-username/project1): Description of the project.
-- [**Project 2**](https://github.com/your-username/project2): Brief description of another project.
+Here are some of my favorite projects:
+
+- [**Project 1**](https://github.com/your-username/project1): A brief description of your project.
+- [**Project 2**](https://github.com/your-username/project2): Briefly mention what makes this project unique.
+
+---
+
+## 🎖️ Achievements & Milestones
+
+- **First Pull Request Merged:** Contributed to [open-source project](#) on DD/MM/YYYY.
+- **Hackathon Winner:** Awarded for [project or category] in [year].
+- **First 100 Stars on GitHub:** 🎉
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Diegoo1802&theme=radical&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
