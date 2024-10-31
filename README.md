@@ -17,7 +17,7 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Diegoo1802&show_icons=true&count_private=true&theme=radical" alt="Diego's GitHub Stats" width="45%" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" width="45%" height="200" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diegoo1802&theme=radical" alt="Most Commit Language" width="45%" height="200" />
 </p>
 
 <p align="center">
@@ -26,7 +26,8 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 </p>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diegoo1802&theme=radical" alt="Most Commit Language" width="45%" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" width="45%" height="200" />
+
 </p>
 
 
