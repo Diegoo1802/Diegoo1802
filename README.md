@@ -21,7 +21,7 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" width="96%" style="border: none;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages"  height="400" style="border: none;" />
 </p>
 
 ---
