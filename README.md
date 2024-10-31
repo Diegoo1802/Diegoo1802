@@ -22,7 +22,6 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
     </td>
     <td style="border: none; text-align: center; width: 50%;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" height="300" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" style="height: 300px; width: 100%; object-fit: contain;" />
     </td>
   </tr>
   <tr>
