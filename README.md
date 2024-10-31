@@ -45,11 +45,6 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 
 ---
 
-
----
-
-
-
 ## 🔧 Technologies & Tools
 
 <p align="center">
