@@ -25,11 +25,12 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="border: none; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" height="300" style="width: 100%;" />
+    <td colspan="2" style="border: none; text-align: center; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" height="300" style="width: 100%; max-width: 100%;" />
     </td>
   </tr>
 </table>
+
 
 ---
 
