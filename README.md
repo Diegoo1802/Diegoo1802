@@ -35,16 +35,8 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
     <img src="https://wakatime.com/share/@Diegoo1802/d8d3e24b-9d4e-45b2-b84c-567e8e3e828f.svg" alt="Wakatime Stats" width="45%" />
 </p>
 
-<p align="center">
-    <h3>🔔 ¡Sigue mis avances en GitHub!</h3>
-    <h4 style="color: #36d7b7;">Contribuciones: ¡Siempre aprendiendo y mejorando!</h4>
-    <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size: 20px; color: #ff5733;">
-        🚀 ¡Participando en proyectos interesantes! | 📚 Aprendiendo algo nuevo cada día | 🌟 ¡Colaborando con la comunidad!
-    </marquee>
-</p>
-
-
 ---
+
 
 ## 🔧 Technologies & Tools
 
