@@ -11,7 +11,6 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 - Diving into open-source projects.
 - Collaborating with fellow developers on innovative solutions.
 
-
 ---
 
 ## 📈 GitHub Analytics
