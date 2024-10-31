@@ -15,25 +15,40 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Diegoo1802&show_icons=true&count_private=true&theme=radical" alt="Diego's GitHub Stats" width="45%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" width="45%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diegoo1802&theme=radical" alt="Productive Time" width="45%" />
-</p>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=Diegoo1802&theme=radical" alt="Commits Activity" width="45%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diegoo1802&theme=radical" alt="Most Commit Language" width="45%" />
-</p>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=Diegoo1802&theme=radical" alt="GitHub Achievements" width="45%" />
-    <img src="https://wakatime.com/share/@Diegoo1802/d8d3e24b-9d4e-45b2-b84c-567e8e3e828f.svg" alt="Wakatime Stats" width="45%" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Diegoo1802&show_icons=true&count_private=true&theme=radical" alt="Diego's GitHub Stats" width="300" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical" alt="Top Languages" width="300" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" width="300" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diegoo1802&theme=radical" alt="Productive Time" width="300" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=Diegoo1802&theme=radical" alt="Commits Activity" width="300" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diegoo1802&theme=radical" alt="Most Commit Language" width="300" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/achievements?username=Diegoo1802&theme=radical" alt="GitHub Achievements" width="300" />
+    </td>
+    <td align="center">
+      <img src="https://wakatime.com/share/@Diegoo1802/d8d3e24b-9d4e-45b2-b84c-567e8e3e828f.svg" alt="Wakatime Stats" width="300" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
     <h3>🔔 ¡Sigue mis avances en GitHub!</h3>
@@ -42,6 +57,7 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
         🚀 ¡Participando en proyectos interesantes! | 📚 Aprendiendo algo nuevo cada día | 🌟 ¡Colaborando con la comunidad!
     </marquee>
 </p>
+
 
 ---
 
