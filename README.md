@@ -1,16 +1,17 @@
 # 👋 Hi, I’m Diego!
 
-Welcome to my corner of the web! I am a passionate developer currently immersed in **Cross-Platform Application Development** in the vibrant city of Madrid. With a relentless curiosity and a desire to constantly improve, I thrive on learning new technologies and refining my skills. 🌱
+Welcome to my corner of the web! I'm a passionate developer focused on **Cross-Platform Application Development** and currently working from the vibrant city of Madrid. My curiosity is endless, and my drive for improvement keeps me pushing boundaries in technology. 🌱
 
 ---
 
 ### 🌟 About Me
 
-I believe that coding is more than just a profession; it's a creative outlet that allows me to bring ideas to life. When I'm not coding, you might find me exploring the latest tech trends, diving into open-source projects, or collaborating with fellow developers to create innovative solutions.
+Coding for me is more than a career; it’s a creative journey where I bring ideas to life. Outside of coding, you’ll probably find me exploring the latest tech trends, diving into open-source projects, or brainstorming with fellow developers to create innovative solutions.
 
 ---
-### 🔧 Technologies & Tools
-<br>
+
+### 🛠️ Technologies & Tools
+
 <p align="left">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -25,7 +26,7 @@ I believe that coding is more than just a profession; it's a creative outlet tha
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
@@ -38,7 +39,7 @@ I believe that coding is more than just a profession; it's a creative outlet tha
 
 ### 📫 Get in Touch
 
-I'm always excited to connect and collaborate! Reach out to me through the following channels:
+I’m always excited to connect and collaborate! Reach out to me through the following channels:
 
 - **LinkedIn:** [Diego Vigara García](https://linkedin.com/in/diego-vigara-garcia)
 - **Email:** [vigaradiego18@gmail.com](mailto:vigaradiego18@gmail.com)
@@ -55,10 +56,10 @@ Here are some of my favorite projects that showcase my skills:
 
 ---
 
+### 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diegoo1802&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegoo1802&layout=compact&theme=radical)
-
-
 
 ---
 
