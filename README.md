@@ -17,10 +17,7 @@ I’m a developer who believes that coding is a creative outlet to bring ideas t
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Diegoo1802&show_icons=true&count_private=true&theme=radical" alt="Diego's GitHub Stats" height="250" style="border: none;" />
-</p>
-
-<p align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" height="250" style="border: none;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Diegoo1802&theme=radical" alt="GitHub Streak Stats" height="250" style="border: none;" />
 </p>
 
 <p align="center">
